@@ -1,0 +1,27 @@
+* {
+    font-family: 'Times New Roman', Times, serif';
+}
+
+.index, .header {
+    color: rgb(169, 138, 16);
+}
+
+h1 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+.potatoes {
+    color: rgb(255, 213, 0);
+}
+
+.rice {
+    color: orange;
+}
+
+.vanilla {
+    color: grey;
+}
